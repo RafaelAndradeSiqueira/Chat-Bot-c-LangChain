@@ -1,7 +1,7 @@
 {
-  "name": "02-langchain-intro",
+  "name": "chat-bot-langchain",
   "version": "0.0.1",
-  "description": "",
+  "description": "Chat Bot c/ LangChain: converte texto em binário e binário em texto com um grafo LangGraph",
   "main": "index.js",
   "scripts": {
     "dev": "node --env-file .env --inspect --watch src/index.ts",

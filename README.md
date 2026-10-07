@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="LangGraph Binary Chatbot: manda texto, recebe binário; manda binário, recebe texto">
+<img src="docs/banner.png" alt="Chat Bot c/ LangChain: manda texto, recebe binário; manda binário, recebe texto">
 
-# LangGraph Binary Chatbot
+# Chat Bot c/ LangChain
 
 **Manda texto, recebe binário. Manda binário, recebe texto. Quem decide o caminho é um grafo.**
 
